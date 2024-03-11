@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Applications
 - 📫 How to reach me 8770800807
 - 😄 Pronouns: Er
-- ⚡ Fun fact: i want to hear ideas 
+- ⚡ Fun fact: i want to hear ideas, i can implement
 
 <!---
 evdpratik/evdpratik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
